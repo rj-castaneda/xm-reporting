@@ -1,0 +1,11 @@
+/node_modules/
+/custom/
+config.js
+notes.md
+/data/
+
+# exclude all data files in directory
+data/*
+
+# keep single file to maintain folder
+!data/.keep 
